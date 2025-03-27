@@ -1,0 +1,14 @@
+C:\sistemprog\lab2\lab3_3\bin\Debug\net8.0\lab3_3.exe
+C:\sistemprog\lab2\lab3_3\bin\Debug\net8.0\lab3_3.deps.json
+C:\sistemprog\lab2\lab3_3\bin\Debug\net8.0\lab3_3.runtimeconfig.json
+C:\sistemprog\lab2\lab3_3\bin\Debug\net8.0\lab3_3.dll
+C:\sistemprog\lab2\lab3_3\bin\Debug\net8.0\lab3_3.pdb
+C:\sistemprog\lab2\lab3_3\obj\Debug\net8.0\lab3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistemprog\lab2\lab3_3\obj\Debug\net8.0\lab3_3.AssemblyInfoInputs.cache
+C:\sistemprog\lab2\lab3_3\obj\Debug\net8.0\lab3_3.AssemblyInfo.cs
+C:\sistemprog\lab2\lab3_3\obj\Debug\net8.0\lab3_3.csproj.CoreCompileInputs.cache
+C:\sistemprog\lab2\lab3_3\obj\Debug\net8.0\lab3_3.dll
+C:\sistemprog\lab2\lab3_3\obj\Debug\net8.0\refint\lab3_3.dll
+C:\sistemprog\lab2\lab3_3\obj\Debug\net8.0\lab3_3.pdb
+C:\sistemprog\lab2\lab3_3\obj\Debug\net8.0\lab3_3.genruntimeconfig.cache
+C:\sistemprog\lab2\lab3_3\obj\Debug\net8.0\ref\lab3_3.dll

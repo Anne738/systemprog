@@ -1,0 +1,16 @@
+C:\sistemprog\lab4\lab4\obj\Debug\net8.0-windows\lab4.Form1.resources
+C:\sistemprog\lab4\lab4\obj\Debug\net8.0-windows\lab4.csproj.GenerateResource.cache
+C:\sistemprog\lab4\lab4\obj\Debug\net8.0-windows\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistemprog\lab4\lab4\obj\Debug\net8.0-windows\lab4.AssemblyInfoInputs.cache
+C:\sistemprog\lab4\lab4\obj\Debug\net8.0-windows\lab4.AssemblyInfo.cs
+C:\sistemprog\lab4\lab4\obj\Debug\net8.0-windows\lab4.csproj.CoreCompileInputs.cache
+C:\sistemprog\lab4\lab4\bin\Debug\net8.0-windows\lab4.exe
+C:\sistemprog\lab4\lab4\bin\Debug\net8.0-windows\lab4.deps.json
+C:\sistemprog\lab4\lab4\bin\Debug\net8.0-windows\lab4.runtimeconfig.json
+C:\sistemprog\lab4\lab4\bin\Debug\net8.0-windows\lab4.dll
+C:\sistemprog\lab4\lab4\bin\Debug\net8.0-windows\lab4.pdb
+C:\sistemprog\lab4\lab4\obj\Debug\net8.0-windows\lab4.dll
+C:\sistemprog\lab4\lab4\obj\Debug\net8.0-windows\refint\lab4.dll
+C:\sistemprog\lab4\lab4\obj\Debug\net8.0-windows\lab4.pdb
+C:\sistemprog\lab4\lab4\obj\Debug\net8.0-windows\lab4.genruntimeconfig.cache
+C:\sistemprog\lab4\lab4\obj\Debug\net8.0-windows\ref\lab4.dll
